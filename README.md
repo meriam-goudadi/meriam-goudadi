@@ -1,4 +1,13 @@
+<h1>Web Developer</h1>
+<img src="https://github.com/user-attachments/assets/60ae3c3c-b189-4b6f-8d3a-bc605c3bb9b1"><img>
+
 ## Hi there 👋
+Currently working on my profile, I'm a web developer, I can help you create or achieve your website
+
+## About me 😊
+
+## Questions ? Let me know 👇
+<img src="https://github.com/user-attachments/assets/82ef27da-f018-4cca-a907-f3aa8d580d04"><a href="https://fr.linkedin.com/in/m%C3%A9riam-g-8a24b6170?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F"><a><img>
 
 <!--
 **meriam-goudadi/meriam-goudadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
