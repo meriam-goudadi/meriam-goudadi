@@ -38,6 +38,13 @@ I’m exploring front-end and back-end technologies while strengthening my found
 
 Feel free to check out my projects and send me a message if you’d like to collaborate, discuss development, manga, or language learning.
 
+## 📲
+<div>
+    <a href="https://fr.linkedin.com/in/m%C3%A9riam-goudadi-8a24b6170" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+</div>
+
 See you around on GitHub! 😁
 
 <!--
