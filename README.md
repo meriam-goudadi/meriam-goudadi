@@ -3,19 +3,19 @@
 ## 👋 Hi there!
 
 I’m a beginner passionate and curious web developer, currently looking for an intership opportunity for the next year (2025), always eager to learn and explore new horizons.
-Here’s a bit more about me: 👇
+<br>Here’s a bit more about me: 👇
 
 ## 🌟 About me?
 
-• A big fan of mangas, with a passion for stories that inspire and connect.
-• A lover of fashion, blending elegance, streetwear, and a unique personal touch.
+• A big fan of mangas, with a passion for stories that inspire and connect.<br>
+• A lover of fashion, blending elegance, streetwear, and a unique personal touch.<br>
 • A sports enthusiast, always motivated by new physical challenges.
 
 ## ✈️ What Drives Me
 
-• Travel: Discovering new cultures and diving into enriching experiences.
-• Personal growth: Always seeking to learn, evolve, and become better.
-• 🗣️:
+• Travel: Discovering new cultures and diving into enriching experiences.<br>
+• Personal growth: Always seeking to learn, evolve, and become better.<br>
+• 🗣️:<br>
 - I’m fluent in French and Arabic.
 - I have a good command of English.
 - I also speak a bit of Spanish, and I’m eager to improve.
@@ -26,8 +26,8 @@ For me, web development is the perfect blend of creativity and problem-solving. 
 
 ## 🚀 What I’m Building Here
 
-• Web projects that reflect my creativity and attention to detail.
-• A portfolio that brings together my passions: technology, aesthetics, and storytelling.
+• Web projects that reflect my creativity and attention to detail.<br>
+• A portfolio that brings together my passions: technology, aesthetics, and storytelling.<br>
 • A space where I share my progress and connect with like-minded individuals.
 
 ## 🛠️ Tools and Skills I’m Learning
@@ -38,7 +38,6 @@ I’m exploring front-end and back-end technologies while strengthening my found
 
 Feel free to check out my projects and send me a message if you’d like to collaborate, discuss development, manga, or language learning.
 
-## 📲
 <div>
     <a href="https://fr.linkedin.com/in/m%C3%A9riam-goudadi-8a24b6170" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
