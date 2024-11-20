@@ -1,30 +1,33 @@
 <img src="https://github.com/user-attachments/assets/a0959b0c-6cd1-427a-99c9-8685baa49914"></img>
 
-## 👋 Hi there!
+## 👋 Hi there, It's Mériam!
 
 I’m a beginner passionate and curious web developer, currently looking for an intership opportunity for the next year (2025), always eager to learn and explore new horizons.
-<br>Here’s a bit more about me: 👇
+Here’s a bit more about me: 👇
 
 ## 🌟 About me?
 
-• A big fan of mangas, with a passion for stories that inspire and connect.<br>
-• A lover of fashion, blending elegance, streetwear, and a unique personal touch.<br>
-• A sports enthusiast, always motivated by new physical challenges.
+![Your Badge 1](https://img.shields.io/badge/Mangas-violet)
+![Your Badge 1](https://img.shields.io/badge/Travels-orange)
+![Your Badge 1](https://img.shields.io/badge/Computer_Science-blue)
+![Your Badge 1](https://img.shields.io/badge/Musique-red)
+![Your Badge 1](https://img.shields.io/badge/Sport-green)
 
-## ✈️ What Drives Me
+#### ✈️ What Drives Me
 
 • Travel: Discovering new cultures and diving into enriching experiences.<br>
 • Personal growth: Always seeking to learn, evolve, and become better.<br>
-• 🗣️:<br>
-- I’m fluent in French and Arabic.
-- I have a good command of English.
-- I also speak a bit of Spanish, and I’m eager to improve.
+• 🗣️: 
+- fluent in ![Your Badge 1](https://img.shields.io/badge/Arabic-green)
+![Your Badge 1](https://img.shields.io/badge/French-blue)
+- good command of ![Your Badge 1](https://img.shields.io/badge/English-violet)
+- eager to improve ![Your Badge 1](https://img.shields.io/badge/Spanish-yellow)
 
-## 💻 Why Web Development?
+#### 💻 Why Web Development?
 
 For me, web development is the perfect blend of creativity and problem-solving. I’m at the beginning of my journey, but every line of code is an opportunity to learn, innovate, and grow.
 
-## 🚀 What I’m Building Here
+#### 🚀 What I’m Building Here
 
 • Web projects that reflect my creativity and attention to detail.<br>
 • A portfolio that brings together my passions: technology, aesthetics, and storytelling.<br>
@@ -44,7 +47,7 @@ Feel free to check out my projects and send me a message if you’d like to coll
     </a>
 </div>
 
-See you around on GitHub! 😁
+See you around ! 😁
 
 <!--
 **meriam-goudadi/meriam-goudadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
