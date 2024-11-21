@@ -34,9 +34,9 @@ For me, web development is the perfect blend of creativity and problem-solving. 
 • A space where I share my progress and connect with like-minded individuals.
 
 ## 👇 Here's some Stats (even if I'm new here) 😉
-<img>"<img width="545" alt="Capture d'écran 2024-11-21 111848" src="https://github.com/user-attachments/assets/31529163-801e-4df3-96ea-b2fc003237a1">"</img>
-<img>"<img width="555" alt="Capture d'écran 2024-11-21 111804" src="https://github.com/user-attachments/assets/00414e80-1969-4f7a-89f7-928bed173668">"</img>
-<img>"<img width="567" alt="Capture d'écran 2024-11-21 111734" src="https://github.com/user-attachments/assets/0ad8c82c-774f-406c-945f-4f55c64d77d3">"</img>
+<img width="545" alt="Capture d'écran 2024-11-21 111848" src="https://github.com/user-attachments/assets/31529163-801e-4df3-96ea-b2fc003237a1">
+<img width="555" alt="Capture d'écran 2024-11-21 111804" src="https://github.com/user-attachments/assets/00414e80-1969-4f7a-89f7-928bed173668">
+<img width="567" alt="Capture d'écran 2024-11-21 111734" src="https://github.com/user-attachments/assets/0ad8c82c-774f-406c-945f-4f55c64d77d3">
 
 ## 🛠️ Tools and Skills I’m Learning
 
